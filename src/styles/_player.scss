@@ -12,8 +12,9 @@
 	align-items: center;
 	input {
 	  width: 100%;
-	  -webkit-appearance: none;
-	  background: transparent;
+	  padding: 1rem 0rem;
+	//   -webkit-appearance: none;
+	//   background: transparent;
 	  cursor: pointer;
 	}
   
@@ -30,3 +31,4 @@
 	  cursor: pointer;
 	}
   }
+
