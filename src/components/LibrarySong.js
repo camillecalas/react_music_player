@@ -1,14 +1,28 @@
-import React, { useState } from 'react'
 
-
-const LibrarySong = ({song, setCurrentSong, setIsPlaying}) => {
+const LibrarySong = ({song, audioRef, songs, setCurrentSong, isPlaying, setIsPlaying, setSongs}) => {
 
 	const songSelectHandler = () => {
+		const updatedSongs = songs.map(s => ({
+            ...s,
+            active: s.id === song.id // Set active to true for the selected song, false for others
+        }));
+
 		setCurrentSong({ ...song })
-		setIsPlaying(false)
+
+        setSongs(updatedSongs);
+		if (isPlaying) {
+			const playPromise = audioRef.current.play();
+			if (playPromise !== undefined) {
+			  playPromise
+				.then((audio) => {
+				  audioRef.current.play();
+				})
+				.catch((error) => console.log(error));
+			}
+		}		
 	}
 
-	//Add active state
+	console.log(song.active)
 
 	return (
 		<div className={`library-song ${song.active ? 'selected' : ''}`}
