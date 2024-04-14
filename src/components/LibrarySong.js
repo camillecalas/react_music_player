@@ -22,8 +22,6 @@ const LibrarySong = ({song, audioRef, songs, setCurrentSong, isPlaying, setIsPla
 		}		
 	}
 
-	console.log(song.active)
-
 	return (
 		<div className={`library-song ${song.active ? 'selected' : ''}`}
 			onClick={songSelectHandler}
