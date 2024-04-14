@@ -28,7 +28,8 @@ const Player = ({songs, setSongs, setCurrentSong, currentSong, audioRef, songInf
         } else if (direction === "skip-back") {
             newIndex = (currentIndex - 1 + songs.length) % songs.length;
         }
-        setCurrentSong(songs[newIndex]);
+		const newSong = songs[newIndex];
+		setCurrentSong(newSong);
 
         const updatedSongs = songs.map((song, index) => ({
             ...song,
