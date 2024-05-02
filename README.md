@@ -10,6 +10,7 @@
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Linkedin](#linkedin)
+- [Getting Started with Create React App](#react)
 
 
 ## Overview
@@ -43,4 +44,13 @@ Users should be able to:
 ## Linkedin
 - [https://www.linkedin.com/in/camillecalas](https://www.linkedin.com/in/camillecalas/)
 
+## Getting Started with Create React App
 
+In the project directory, you can run:
+
+`npm start`
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
