@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live url]([https://your-live-site-url.com](https://main--cc-music-app.netlify.app/)
+- [Live Site URL]([https://your-live-site-url.com](https://main--cc-music-app.netlify.app/)
 
 ## My process
 
