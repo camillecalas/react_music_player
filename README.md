@@ -10,7 +10,7 @@
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Linkedin](#linkedin)
-- [Getting Started with Create React App](getting-started-with-create-react-app)
+- [Getting Started with Create React App](#getting-started-with-create-react-app)
 
 
 ## Overview
