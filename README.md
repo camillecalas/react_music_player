@@ -34,6 +34,7 @@ Users should be able to:
 
 - [Live Site URL](https://main--cc-music-app.netlify.app/)
 
+
 ## My process
 
 ### Built with
@@ -43,6 +44,7 @@ Users should be able to:
 
 ## Linkedin
 - [https://www.linkedin.com/in/camillecalas](https://www.linkedin.com/in/camillecalas/)
+
 
 ## Getting Started with Create React App
 
