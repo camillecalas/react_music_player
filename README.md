@@ -41,6 +41,6 @@ Users should be able to:
 - [SCS](https://sass-lang.com/) - For styles
 
 ## Linkedin
-- [Linkedin]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/camillecalas/))
+- [https://www.twitter.com/yourusername](https://www.linkedin.com/in/camillecalas/)
 
 
