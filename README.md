@@ -38,7 +38,7 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- [SCS] (https://sass-lang.com/) - For styles
+- [SCS](https://sass-lang.com/) - For styles
 
 ## Author
 - Linkedin - [Linkedin]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/camillecalas/))
