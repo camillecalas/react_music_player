@@ -9,7 +9,7 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
+- [Linkedin](#linkedin)
 
 
 ## Overview
@@ -40,7 +40,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [SCS](https://sass-lang.com/) - For styles
 
-## Author
-- Linkedin - [Linkedin]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/camillecalas/))
+## Linkedin
+- [Linkedin]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/camillecalas/))
 
 
