@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Uploading Screen Shot 2024-05-02 at 4.53.13 pm.png…]()
+![Screen Shot 2024-05-02 at 4.53.13 pm.png…]()
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
