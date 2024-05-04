@@ -40,7 +40,7 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- [SCS](https://sass-lang.com/) - For styles
+- [SCSS](https://sass-lang.com/) - For styles
 
 ## Linkedin
 - [https://www.linkedin.com/in/camillecalas](https://www.linkedin.com/in/camillecalas/)
